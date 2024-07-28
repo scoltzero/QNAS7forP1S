@@ -20,4 +20,4 @@
 原作者视频：
 https://www.bilibili.com/video/BV1au411z7x2/
 
-![QNAS7]([https://makerworld.bblmw.cn/makerworld/model/CN715033e558e5b3/design/2024-07-28_b6f900b0b96f5.jpeg?x-oss-process=image/resize,w_1000/format,webp](https://makerworld.bblmw.cn/makerworld/model/CN715033e558e5b3/design/2024-07-28_b6f900b0b96f5.jpeg?x-oss-process=image/resize,w_1920/format,webp))
+![QNAS7](https://makerworld.bblmw.cn/makerworld/model/CN715033e558e5b3/design/2024-07-28_b6f900b0b96f5.jpeg?x-oss-process=image/resize,w_1920/format,webp)
